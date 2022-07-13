@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+body{
+    background-color: rgb(86, 106, 160);
+    color: rgb(218, 95, 61);
+
+}
+.content{
+    padding: 5vw;
+    font-size: 5vh;
+    text-align: center;   
+}
+ul{
+    padding: 50px 20px;
+}
+ul li{
+    color: black;
+    font-weight: 700;
+    font-size: 3vh;
+    background-color: aqua;
+    
+    margin:0px 20px;
+}
